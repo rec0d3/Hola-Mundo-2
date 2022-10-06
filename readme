@@ -1,3 +1,9 @@
 hemos creado hola mundo 2
 como actividad de la clase 7 
 de sitemas de procesamiento de datos
+
+
+estos cammbios pertenecen a la rama 1
+
+def suma(a, b):
+  return a + b
